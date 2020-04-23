@@ -1,0 +1,14 @@
+Plan 1 : 300 problems in 120 days (till 2020.07.22)
+
+2020.04.22  2.AddTwoNums 
+            19.RemoveNthNode
+easy:   0/50
+medium: 2/200
+hard :  0/50
+total:  2/300    
+
+2020.04.23  n.FastSort
+easy:   0/50
+medium: 2/200
+hard :  0/50
+total:  2/300

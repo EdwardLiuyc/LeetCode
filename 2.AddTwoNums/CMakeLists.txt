@@ -1,0 +1,1 @@
+add_executable(2.AddTwoNums test_main.cc)
