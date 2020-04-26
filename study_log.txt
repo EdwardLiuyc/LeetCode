@@ -14,8 +14,14 @@ medium: 3/200
 hard :  0/50
 total:  3/300
 
-2020.04.23  240.SearchMatrixII
+2020.04.24  240.SearchMatrixII
 easy:   0/50
 medium: 4/200
 hard :  0/50
 total:  4/300
+
+2020.04.26  9.PalindromeNumber
+easy:   1/50
+medium: 4/200
+hard :  0/50
+total:  5/300
